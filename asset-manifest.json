@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Node-React-PostgreSQL/static/css/main.3be415bc.chunk.css",
+    "main.js": "/Node-React-PostgreSQL/static/js/main.60a213f8.chunk.js",
+    "main.js.map": "/Node-React-PostgreSQL/static/js/main.60a213f8.chunk.js.map",
+    "runtime-main.js": "/Node-React-PostgreSQL/static/js/runtime-main.0e6c968a.js",
+    "runtime-main.js.map": "/Node-React-PostgreSQL/static/js/runtime-main.0e6c968a.js.map",
+    "static/js/2.bf1f2715.chunk.js": "/Node-React-PostgreSQL/static/js/2.bf1f2715.chunk.js",
+    "static/js/2.bf1f2715.chunk.js.map": "/Node-React-PostgreSQL/static/js/2.bf1f2715.chunk.js.map",
+    "index.html": "/Node-React-PostgreSQL/index.html",
+    "static/css/main.3be415bc.chunk.css.map": "/Node-React-PostgreSQL/static/css/main.3be415bc.chunk.css.map",
+    "static/js/2.bf1f2715.chunk.js.LICENSE.txt": "/Node-React-PostgreSQL/static/js/2.bf1f2715.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Node-React-PostgreSQL/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e6c968a.js",
+    "static/js/2.bf1f2715.chunk.js",
+    "static/css/main.3be415bc.chunk.css",
+    "static/js/main.60a213f8.chunk.js"
+  ]
+}
