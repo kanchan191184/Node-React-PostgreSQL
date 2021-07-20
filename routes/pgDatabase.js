@@ -22,14 +22,7 @@ client.query(query, (err, res) => {
   } else {
     console.log(res.rows);
     router.get("/", (req, res1, next) => {
-      //   res.send(
-      //     res
-      //       .map((iterable) => {
-      //         iterable.Name;
-      //       })
-      //       .join("")
-      //   );
-      res1.json({ value: res.rows });
+      res1.send({ value: res.rows });
     });
   }
 
